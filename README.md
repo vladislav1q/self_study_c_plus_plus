@@ -5,4 +5,4 @@ Most of them, it seems, will be rewritten from books.
 Remaind some features or learn new.
 
 1\. Deadline for finishing beginning book: 23.09.2022
-page 105
+page 127
